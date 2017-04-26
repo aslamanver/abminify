@@ -1,7 +1,8 @@
-# abminify
+<h1>abminify</h1>
+
 <h2>ABminify is a PHP Library</h2>
 
-# Licence
+<h1>Licence</h1>
 
 MIT License
 
