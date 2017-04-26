@@ -1,8 +1,8 @@
-<h1>abminify</h1>
+# [abminify](https://aslamanver.github.io/abminify) - Cross-platform HTML5 Mobile App Framework
 
-<p>ABminify is a PHP Library</p>
+ABminify is a PHP Library
 
-<h1>Licence</h1>
+# Licence
 
 MIT License
 
