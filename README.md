@@ -1,6 +1,6 @@
 <h1>abminify</h1>
 
-<h2>ABminify is a PHP Library</h2>
+<p>ABminify is a PHP Library</p>
 
 <h1>Licence</h1>
 
