@@ -1,6 +1,8 @@
 # abminify
+<h2>ABminify is a PHP Library</h2>
 
 # Licence
+
 MIT License
 
 Copyright (c) 2017 Aslam Anver
